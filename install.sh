@@ -14,7 +14,7 @@ fi
 
 SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
 
-THEME_NAME=Reversal
+THEME_NAME=Yuzu
 COLOR_VARIANTS=(''  '-dark')
 THEME_VARIANTS=('' '-black' '-blue' '-brown' '-cyan' '-green' '-grey' '-lightblue' '-orange' '-pink' '-purple' '-red')
 

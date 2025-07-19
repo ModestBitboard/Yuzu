@@ -1,11 +1,13 @@
-## Reversal Icon Theme
-A colorful design icon theme for linux desktops
+## Yuzu
+A personalized fork of Reversal Icon Theme
 
-### Donate
+## Credit
+Please go support the original creator of the [Reversal icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme).
 
-If you like my project, you can buy me a coffee:
+## Future
+My intention for this project is to mix the Reversal icon theme and the Yaru theme to make a comfortable system theme that can integrate well with GTK and other desktops.
 
-<span class="paypal"><a href="https://www.paypal.me/yeyushengfan258" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+For now, the only differences between this fork and the Reversal icon theme are a couple modified and added icons, and being renamed to Yuzu.
 
 ## Install
 
@@ -20,9 +22,3 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-b, --bold           | Install bold panel icons version|
 |-r,--remove,-u,--uninstall | Uninstall (remove) icon themes|
 |-h, --help           | Show this help|           
-
-## view
-![view](View-1.png?raw=true)
-![view](View-2.png?raw=true)
-![view](View-3.png?raw=true)
-
