@@ -9,6 +9,8 @@ My intention for this project is to mix the Reversal icon theme and the Yaru the
 
 For now, the only differences between this fork and the Reversal icon theme are a couple modified and added icons, and being renamed to Yuzu.
 
+Please bare with me as I'm new to theming.
+
 ## Install
 
 Usage:  `./install.sh`  **[OPTIONS...]**
