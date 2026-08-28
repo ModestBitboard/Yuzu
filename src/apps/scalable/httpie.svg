@@ -6,7 +6,7 @@
    version="1.1"
    id="svg23"
    sodipodi:docname="httpie.svg"
-   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +25,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="5.6301001"
-     inkscape:cx="25.754427"
-     inkscape:cy="23.711834"
+     inkscape:zoom="2.8150501"
+     inkscape:cx="-13.498872"
+     inkscape:cy="26.464894"
      inkscape:window-width="1374"
-     inkscape:window-height="831"
+     inkscape:window-height="891"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg23">
+     inkscape:current-layer="g2">
     <inkscape:page
        x="0"
        y="0"
@@ -43,34 +43,44 @@
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
-  <rect
-     ry="15"
-     y="4.4999995"
-     x="4.4999995"
-     height="55"
-     width="55"
-     id="rect1055"
-     style="display:inline;opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)" />
   <desc
      id="desc1">
     Httpie Streamline Icon: https://streamlinehq.com
   </desc>
   <title
      id="title1">HTTPie</title>
-  <rect
-     style="display:inline;fill:url(#linearGradient1053);fill-opacity:1;stroke-width:2.74436;stroke-linecap:round"
-     id="rect1045"
-     width="54.999996"
-     height="54.999996"
-     x="4.5000019"
-     y="4.5000019"
-     ry="14.999999" />
-  <path
-     d="m 25.183934,14.671498 c -4.15884,0 -7.636093,3.290971 -7.721291,7.444036 a 7.5999922,7.5999922 0 0 0 7.59566,7.737176 h 6.098189 a 0.4418768,0.4418768 0 0 1 0.176173,0.84332 l -9.342951,4.093859 a 7.5999922,7.5999922 0 0 0 -4.527071,7.003603 c 0.02888,4.189165 3.516242,7.53501 7.711183,7.53501 h 3.194221 c 4.21949,0 7.735732,-3.386278 7.725624,-7.605768 a 7.5999922,7.5999922 0 0 0 -4.750898,-7.028152 0.43754468,0.43754468 0 0 1 -0.01011,-0.802887 l 10.688797,-4.68736 a 7.5999922,7.5999922 0 0 0 4.516963,-6.997827 c -0.03032,-4.189165 -3.52635,-7.530678 -7.716959,-7.530678 z"
-     fill="#000000"
-     stroke-width="1.44404"
-     id="path1"
-     style="fill:#ffffff;fill-opacity:1" />
+  <g
+     id="g2"
+     inkscape:label="bg">
+    <rect
+       ry="15"
+       y="4.4999995"
+       x="4.4999995"
+       height="55"
+       width="55"
+       id="rect1055"
+       style="display:inline;opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)"
+       inkscape:label="shadow" />
+    <rect
+       style="display:inline;fill:url(#linearGradient1053);fill-opacity:1;stroke-width:2.74436;stroke-linecap:round"
+       id="rect1045"
+       width="54.999996"
+       height="54.999996"
+       x="4.5000019"
+       y="4.5000019"
+       ry="14.999999"
+       inkscape:label="backdrop" />
+  </g>
+  <g
+     id="g1"
+     inkscape:label="icon">
+    <path
+       d="m 25.183934,14.671498 c -4.15884,0 -7.636093,3.290971 -7.721291,7.444036 a 7.5999922,7.5999922 0 0 0 7.59566,7.737176 h 6.098189 a 0.4418768,0.4418768 0 0 1 0.176173,0.84332 l -9.342951,4.093859 a 7.5999922,7.5999922 0 0 0 -4.527071,7.003603 c 0.02888,4.189165 3.516242,7.53501 7.711183,7.53501 h 3.194221 c 4.21949,0 7.735732,-3.386278 7.725624,-7.605768 a 7.5999922,7.5999922 0 0 0 -4.750898,-7.028152 0.43754468,0.43754468 0 0 1 -0.01011,-0.802887 l 10.688797,-4.68736 a 7.5999922,7.5999922 0 0 0 4.516963,-6.997827 c -0.03032,-4.189165 -3.52635,-7.530678 -7.716959,-7.530678 z"
+       fill="#000000"
+       stroke-width="1.44404"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
   <defs
      id="defs21">
     <filter
