@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+    <mime-type type="application/x-rvz">
+        <comment>Wii/GameCube Compressed Disc Image</comment>
+        <glob pattern="*.rvz"/>
+        <glob pattern="*.RVZ"/>
+    </mime-type>
+</mime-info>
+
