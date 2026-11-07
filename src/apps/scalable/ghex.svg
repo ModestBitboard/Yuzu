@@ -6,7 +6,7 @@
    version="1.1"
    id="svg23"
    sodipodi:docname="ghex.svg"
-   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,14 +23,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.6301001"
-     inkscape:cx="25.843235"
-     inkscape:cy="23.711834"
+     inkscape:cx="15.985506"
+     inkscape:cy="27.974636"
      inkscape:window-width="1374"
-     inkscape:window-height="831"
+     inkscape:window-height="891"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg23">
+     inkscape:current-layer="g1">
     <inkscape:page
        x="0"
        y="0"
@@ -40,22 +40,6 @@
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
-  <rect
-     ry="15"
-     y="4.4999995"
-     x="4.4999995"
-     height="55"
-     width="55"
-     id="rect1055"
-     style="display:inline;opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)" />
-  <rect
-     style="display:inline;fill:url(#linearGradient1053);fill-opacity:1;stroke-width:2.74436;stroke-linecap:round"
-     id="rect1045"
-     width="54.999996"
-     height="54.999996"
-     x="4.5000019"
-     y="4.5000019"
-     ry="14.999999" />
   <defs
      id="defs21">
     <filter
@@ -80,30 +64,61 @@
        x2="-72"
        y2="5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(131.5,-0.50999708)" />
+       gradientTransform="matrix(0.26457812,0,0,0.26457812,34.792023,-0.13493511)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1051">
       <stop
-         style="stop-color:#278643;stop-opacity:1;"
+         style="stop-color:#02db96;stop-opacity:1"
          offset="0"
          id="stop1047" />
       <stop
-         style="stop-color:#15df7c;stop-opacity:1;"
+         style="stop-color:#13d39b;stop-opacity:1"
          offset="1"
          id="stop1049" />
     </linearGradient>
   </defs>
-  <path
-     d="m 34.448932,12.911524 -5.214845,9.033203 5.214845,9.033203 h 10.43164 l 5.214844,-9.033203 -5.214844,-9.033203 z"
-     style="display:inline;fill:#ffffff;stroke-width:0.389;paint-order:fill markers stroke;fill-opacity:0.80080235"
-     id="path4" />
-  <path
-     d="m 44.880572,33.02207 h -10.43164 l -5.214845,9.033203 5.214845,9.033203 h 10.43164 l 5.214844,-9.033203 z"
-     style="display:inline;fill:#ffffff;stroke-width:0.389;paint-order:fill markers stroke;fill-opacity:0.4477759"
-     id="path6" />
-  <path
-     d="M 27.242374,41.033203 32.457218,32 27.242374,22.966797 H 16.810733 L 11.59589,32 l 5.214843,9.033203 z"
-     style="fill:#ffffff;stroke-width:0.389;paint-order:fill markers stroke"
-     id="path5" />
+  <g
+     id="g1-3"
+     inkscape:label="bg"
+     transform="scale(3.779602)">
+    <rect
+       transform="scale(0.26457812)"
+       ry="15"
+       y="4.5"
+       x="4.5"
+       height="55"
+       width="55"
+       id="rect1055"
+       style="opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)"
+       inkscape:label="shadow" />
+    <rect
+       style="fill:url(#linearGradient1053);fill-opacity:1;stroke-width:0.726098;stroke-linecap:round"
+       id="rect1045"
+       width="14.551796"
+       height="14.551796"
+       x="1.1906021"
+       y="1.1906021"
+       ry="3.9686716"
+       inkscape:label="backdrop" />
+  </g>
+  <g
+     id="g1"
+     inkscape:label="icon">
+    <path
+       d="m 44.880572,33.02207 h -10.43164 l -5.214845,9.033203 5.214845,9.033203 h 10.43164 l 5.214844,-9.033203 z"
+       style="display:inline;fill:#ffffff;stroke-width:0.389;paint-order:fill markers stroke;fill-opacity:0.4477759"
+       id="path6"
+       inkscape:label="hex3" />
+    <path
+       d="m 34.448932,12.911524 -5.214845,9.033203 5.214845,9.033203 h 10.43164 l 5.214844,-9.033203 -5.214844,-9.033203 z"
+       style="display:inline;fill:#ffffff;stroke-width:0.389;paint-order:fill markers stroke;fill-opacity:0.80080235"
+       id="path4"
+       inkscape:label="hex2" />
+    <path
+       d="M 27.242374,41.033203 32.457218,32 27.242374,22.966797 H 16.810733 L 11.59589,32 l 5.214843,9.033203 z"
+       style="fill:#ffffff;stroke-width:0.389;paint-order:fill markers stroke"
+       id="path5"
+       inkscape:label="hex1" />
+  </g>
 </svg>
